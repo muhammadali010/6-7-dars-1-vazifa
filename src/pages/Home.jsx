@@ -1,6 +1,6 @@
 const Home = () => {
     return (
-      <div className="bg-gray-900 text-white p-8 h-full" >
+      <div className=" p-8 h-full" >
         <div className="flex justify-between items-center">
           <div>
             <h1 className="text-5xl font-bold mb-4"> We are changing the way people shop </h1>
